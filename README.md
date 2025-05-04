@@ -1,5 +1,7 @@
 # mrprobit
-Probit Estimators with Misclassification of the Dependent Variable Use mrprobit With STATA 18
+Probit Estimators with Misclassification of the Dependent Variable Use mrprobit With STATA 19
+
+https://www.youtube.com/watch?v=cf8rNHabiUY
 
 Olah Data Semarang
 
